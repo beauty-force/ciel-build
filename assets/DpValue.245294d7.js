@@ -1,0 +1,1 @@
+import{x as t,o as a,c as o,d as e,t as n,C as c}from"./app.a1ea5bb9.js";const l=e("header",null,[e("h2",{class:"text-lg font-medium"},"\u8CFC\u5165PT")],-1),r={class:"mt-2"},u={class:"w-full px-2 leading-8"},m={__name:"DpValue",setup(p){const s=t().props.value.auth.user;return(_,d)=>(a(),o("section",null,[l,e("div",r,[e("span",u,n(c(s).dp)+" pt",1)])]))}};export{m as default};
